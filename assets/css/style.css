@@ -1,16 +1,20 @@
-.my-navbar{
+.my-navbar {
     background-color: #027656
 }
-.mycarousel-size{
+
+.mycarousel-size {
 	width: 80%;
 }
-.mycarousel-size h3{
+
+.mycarousel-size h3 {
 	line-height: 0.5em;
 }
+ 
 a{
     color: #337ab7;
 }
-.navbar-right > li,.brand{
+
+.navbar-right > li {
 	text-shadow: 0px 0px 5px #000;
 }
 
